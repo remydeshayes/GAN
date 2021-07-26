@@ -1,4 +1,4 @@
-# Deep Learning project @ ENSAE Paris
+# Deep Learning project
 ## DCGAN and cycleGAN
 
 Authors : Rémy DESHAYES, Maxime BERILLON
