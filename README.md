@@ -1,7 +1,7 @@
 # Deep Learning projet @ ENSAE
 ## DCGAN and cycleGAN
 
-Rémy DESHAYES, Maxime BERILLON
+Authors : Rémy DESHAYES, Maxime BERILLON
 
 When studying an unsupervised learning problem, data at hand supposedly follow a distribution that we want to discover and learn. 
 
